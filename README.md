@@ -1,9 +1,11 @@
 # Lemondoro 🍋⏱️  
 Lemondoro is a simple Pomodoro timer app built with Flutter that makes productivity fun and interactive.
 
-<img src="images/image1.jpg" width="200" style="display:inline-block; margin-right:10px;" />  
-<img src="images/image2.jpg" width="200" style="display:inline-block; margin-right:10px;" />  
-<img src="images/image3.jpg" width="200" style="display:inline-block;" />
+<p float="left">
+  <img src="images/image1.jpg" width="200" style="margin-right: 10px;" />
+  <img src="images/image2.jpg" width="200" style="margin-right: 10px;" />
+  <img src="images/image3.jpg" width="200" />
+</p>
 
 ---
 

@@ -1,0 +1,23 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.build/
+
+# IDE specific
+.idea/
+*.iml
+
+# Platform specific
+android/local.properties
+android/key.properties
+ios/Flutter/Generated.xcconfig
+linux/
+macos/
+web/
+windows/
+
+# Metadata
+.metadata
+pubspec.lock

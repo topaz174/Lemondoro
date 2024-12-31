@@ -1,9 +1,9 @@
-![Image 1](images/image1.jpg)  
-![Image 2](images/image2.jpg)  
-![Image 3](images/image3.jpg)  
-
 # Lemondoro 🍋⏱️  
 Lemondoro is a simple Pomodoro timer app built with Flutter that makes productivity fun and interactive.
+
+<img src="images/image1.jpg" width="200" />  
+<img src="images/image2.jpg" width="200" />  
+<img src="images/image3.jpg" width="200" />
 
 ---
 
